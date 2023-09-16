@@ -142,18 +142,28 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+<img width="425" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/7311803d-a678-4c03-8a09-796b6407c403">
+
+<img width="428" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/2cd43fd8-65d5-49f1-8649-f832c7861e62">
+
 
 ### Classification Report
 
-Include Classification Report here
+<img width="347" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/22673ba3-c85c-4538-83d2-8f0ad2a33665">
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+<img width="353" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/bf1c0e4a-1f42-47b2-bf0f-47d3fa2e2331">
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+<img width="211" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/69c3f261-1b94-4540-afd9-763666ca9795">
+
+<img width="365" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/3ad78da4-19b1-42f1-b4be-60d27ebecb12">
+
+
 
 ## RESULT
+Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
