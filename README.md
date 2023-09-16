@@ -167,7 +167,7 @@ print(x_single_prediction)
 
 ### New Sample Data Prediction
 
-<img width="211" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/69c3f261-1b94-4540-afd9-763666ca9795">
+<img width="211" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/69c3f261-1b94-4540-afd9-763666ca9795">\n
 
 
 <img width="365" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/3ad78da4-19b1-42f1-b4be-60d27ebecb12">
