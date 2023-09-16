@@ -144,6 +144,15 @@ print(x_single_prediction)
 
 <img width="425" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/7311803d-a678-4c03-8a09-796b6407c403">
 
+
+
+
+
+
+
+
+
+
 <img width="428" alt="image" src="https://github.com/Nagajyothichinta/mnist-classification/assets/94191344/2cd43fd8-65d5-49f1-8649-f832c7861e62">
 
 
